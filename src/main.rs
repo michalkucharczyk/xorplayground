@@ -1,4 +1,5 @@
 //
+//
 use hex::FromHex;
 use rustc_serialize::hex::ToHex;
 use std::str;
